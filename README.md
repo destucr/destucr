@@ -4,7 +4,7 @@
 <p>I'm a programmer passionate about low-level programming and system architecture. With experience in both frontend and backend development.</p>
 
 <p align="center">
-  <h4>Let's connect! 👋</h4> 
+  <h3>Let's connect! 👋</h3> 
   <a href="https://linkedin.com/in/destucikal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
