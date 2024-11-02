@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
 </a>
 
-I'm a software developer passionate about low-level programming and system architecture. With experience in both frontend and backend development, I'm currently diving deep into Rust, 2D game development, and computer architecture. I enjoy understanding how things work at a fundamental level while building efficient and performant solutions.
+I'm a software developer passionate about low-level programming and system architecture. With experience in both frontend and backend development.
 
 **🛠️ Tech Stack**
 - **Languages**: TypeScript, JavaScript, Rust, HTML5, CSS3
