@@ -8,10 +8,6 @@
   <a href="https://linkedin.com/in/destucikal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp; &nbsp;
-  <a href="https://x.com/elosalmon" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
 </p>
 
 <h3>Things I code with</h3>
