@@ -1,7 +1,7 @@
 # Hi, I'm Destu 
 ### Programmer | Continuous Learner
 
-<p>I'm a programmer passionate about low-level programming and system architecture. With experience in both frontend and backend development.</p>
+<p>Specialized in building Swift-based mobile applications. Passionate about low-level programming and system architecture, with hands-on experience across frontend and backend development.</p>
 
 <p align="center">
   <h3>Let's connect! 👋</h3> 
