@@ -28,7 +28,7 @@
 <h3>Some stats</h3>
 
 <p align="center">
-  <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api?username=destucr&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img width="49%" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=destucr&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
