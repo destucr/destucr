@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destucr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=destucr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats-sigma-five.vercel.app/api?username=destucr&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true&bg_color=0D1117")" alt="Top Languages"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=destucr&label=Profile%20views&color=5034ED&style=flat" alt="Profile views"/>
