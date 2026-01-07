@@ -4,6 +4,10 @@
 <p>Specialized in building Swift-based mobile applications. Passionate about low-level programming and system architecture, with hands-on experience across frontend and backend development.</p>
 
 <p align="center">
+  <strong>🌐 Check out my portfolio:</strong> <a href="https://porto-web.destucr.workers.dev/" target="_blank">porto-web.destucr.workers.dev</a>
+</p>
+
+<p align="center">
   <h3>Let's connect! 👋</h3> 
   <a href="https://linkedin.com/in/destucikal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -26,11 +30,9 @@
 </p>
 
 <h3>Some stats</h3>
-
 <p align="center">
   <img width="49%" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=destucr&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destucr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
