@@ -1,5 +1,5 @@
 # Hi, I'm Destu 
-### Programmer | Continuous Learner
+### iOS Developer | Continuous Learner
 
 <p>Specialized in building Swift-based mobile applications. Passionate about low-level programming and system architecture, with hands-on experience across frontend and backend development.</p>
 
